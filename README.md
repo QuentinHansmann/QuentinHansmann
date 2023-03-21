@@ -3,7 +3,7 @@
 </h1>
 <h4 align="center">
   Welcome on my GitHub profile
-  <br> I'm a former business developper and Data Analytics students
+  <br> I'm a former business developper and data analytics student at Le Wagon
   <br> Now looking for a data analyst position 🤩
 </h4>
 
